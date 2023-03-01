@@ -14,3 +14,4 @@
 
 Блок схема
 
+![BlockS](https://user-images.githubusercontent.com/121401389/222257582-80dcbd08-8181-401a-a5f0-0e5ffc0e96ad.JPG)
